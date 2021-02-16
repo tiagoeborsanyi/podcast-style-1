@@ -1,0 +1,11 @@
+.podcast-preview {
+    margin: 3rem 0;
+    &__title {
+        margin-bottom: 1.8rem;
+    }
+
+    &__items {
+        display: flex;
+        justify-content: space-between;
+    }
+}
