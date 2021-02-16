@@ -1,6 +1,7 @@
 import './App.css';
 import Menu from './pages/menu/menu';
 import Content from './pages/content/content';
+import Guotes from './pages/guotes/guotes';
 
 function App() {
   return (
@@ -11,7 +12,9 @@ function App() {
       <div className='center'>
         <Content />
       </div>
-      <div className='right'>right</div>
+      <div className='right'>
+        <Guotes />
+      </div>
     </div>
   );
 }

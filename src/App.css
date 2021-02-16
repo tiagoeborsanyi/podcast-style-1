@@ -17,4 +17,5 @@
 
 .right {
   grid-area: right;
+  padding: 1rem 5rem;
 }

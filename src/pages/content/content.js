@@ -14,8 +14,10 @@ const Content = ({imageUrl, title, subtitle}) => (
         <div className='podcast-list'>
 
             {
-                PODCAST_DATA.map(({id, ...otherProps}) => (
-                    <PodPreview key={id} { ...otherProps } />
+                PODCAST_DATA
+                    .filter(item => item.id < 4)
+                    .map(({id, ...otherProps}) => (
+                        <PodPreview key={id} { ...otherProps } />
                 ))
             }
         </div>
