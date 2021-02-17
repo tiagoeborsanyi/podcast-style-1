@@ -1,5 +1,5 @@
 .player {
-    height: 27rem;
+    height: 32rem;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -15,7 +15,7 @@
 
     &__box {
         width: 60%;
-        height: 10rem;
+        height: 12rem;
         background-color: #a21aa7;
         background-color: #3230b4;
         background-image: linear-gradient(-150deg, #a21aa7, #3230b4);
@@ -36,7 +36,8 @@
     }
 
     &__music {
-        padding: 1rem 0;
+        padding-top: 1.7rem;
+        padding-bottom: 1.2rem;
         text-align: center;
         &-title {
             color: white;

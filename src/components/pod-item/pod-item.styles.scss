@@ -44,7 +44,7 @@
     width: 90%;
     flex-direction: row;
     justify-content: flex-start;
-    padding: 1rem 0;
+    padding: .7rem 0;
     border: none;
     transition: none;
     box-shadow: none;
@@ -55,8 +55,8 @@
     }
 
     & .podcast-item__image {
-        height: 70px;
-        width: 70px;
+        height: 60px;
+        width: 60px;
     }
 
     & .podcast-item__footer {
