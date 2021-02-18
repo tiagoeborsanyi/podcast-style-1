@@ -22,14 +22,14 @@ const PODCAST_DATA = [
                 id: 3,
                 title: 'Creative Coder',
                 subtitle: 'Design Matters',
-                imageUrl: 'https://inovacaosebraeminas.com.br/wp-content/uploads/2018/01/o-que-e-podcast-como-funciona-e-por-que-ter-na-sua-empresa-1.jpg',
+                imageUrl: 'https://www.courant.com/resizer/1tBTIp8T-hrTXeO4S6X4vr-h-DQ=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/KKVBPNHT5BCS3KQWUWDF7XOYLQ.jpg',
                 coluna: ''
             },
             {
                 id: 4,
                 title: 'Episode 206',
                 subtitle: 'UI Breakfast',
-                imageUrl: 'https://inovacaosebraeminas.com.br/wp-content/uploads/2018/01/o-que-e-podcast-como-funciona-e-por-que-ter-na-sua-empresa-1.jpg',
+                imageUrl: 'https://thumborcdn.acast.com/SHDOjCHRFnrTAJLYuKgT1Wee_64=/3000x3000/https://mediacdn.acast.com/assets/4c2a5066-57bf-42c9-af8c-15cb07ab732c/cover-image-k2ytbk65-the_log_books_podcast_logo.jpg',
                 coluna: ''
             }
         ]
